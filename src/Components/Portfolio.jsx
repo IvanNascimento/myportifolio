@@ -19,7 +19,8 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+// import image from "../images/design-desk.jpeg";
+const image = "https://web-static.wrike.com/blog/content/uploads/2017/03/PREVIEW-project-portfolio-manager.jpg?av=06c2601eebb032c3b0a3529b2f8ba8e7";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -44,12 +45,6 @@ const projectList = [
     title: "Sequelize Module",
     description: `Demonstração do código que desenvolvi para gerar endpoints automaticamente, recebendo o Model desejado.`,
     url: "https://github.com/IvanNascimento/sequelize-school-example",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
 ];
 
