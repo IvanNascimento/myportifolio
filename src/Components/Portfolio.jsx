@@ -38,7 +38,7 @@ const projectList = [
   },
   {
     title: "Códigos Feitos em Sala de Aula",
-    description: `Repositório dos melhores códigos desenvolvidos em ambiente escolar`,
+    description: `Repositório de alguns códigos desenvolvidos em ambiente escolar`,
     url: "https://github.com/IvanNascimento/edados",
   },
   {
