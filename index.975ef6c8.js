@@ -28778,7 +28778,7 @@ const imageAltText = "desktop with books and laptop";
     },
     {
         title: "C\xf3digos Feitos em Sala de Aula",
-        description: `Repositório dos melhores códigos desenvolvidos em ambiente escolar`,
+        description: `Repositório de alguns códigos desenvolvidos em ambiente escolar`,
         url: "https://github.com/IvanNascimento/edados"
     },
     {
