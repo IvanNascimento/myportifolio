@@ -39,12 +39,27 @@ const projectList = [
   {
     title: "Códigos Feitos em Sala de Aula",
     description: `Repositório de alguns códigos desenvolvidos em ambiente escolar`,
-    url: "https://github.com/IvanNascimento/edados",
+    url: "https://github.com/IvanNascimento/class-codes",
   },
   {
     title: "Sequelize Module",
     description: `Demonstração do código que desenvolvi para gerar endpoints automaticamente, recebendo o Model desejado.`,
     url: "https://github.com/IvanNascimento/sequelize-school-example",
+  },
+  {
+    title: "Perfil no GitHub",
+    description: `Meu Repositório padrão.`,
+    url: "https://github.com/IvanNascimento",
+  },
+  {
+    title: "Perfil na Beecrowd",
+    description: `Juiz Online onde treinei e resolvi códigos durante meu primeiro ano do ensino médio.`,
+    url: "https://www.beecrowd.com.br/judge/pt/profile/131686",
+  },
+  {
+    title: "Perfil no Replit",
+    description: `Repositório que utilizei durante algum tempo.`,
+    url: "https://replit.com/@ivannascimento",
   },
 ];
 
