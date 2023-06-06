@@ -3,26 +3,26 @@
   "version": "1.0.0",
   "description": "Clone from 'Educator JS Codespace Template'",
   "source": "src/index.html",
-  "homepage": "https://IvanNascimento.github.io/myportifolio",
+  "homepage": "https://IvanNascimento.github.io/portifolio",
   "originalHomepage": "https://github.com/microsoft/codespaces-teaching-template-js#readme",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://IvanNascimento.github.io/myportifolio'",
+    "build-gh": "parcel build --public-url 'https://IvanNascimento.github.io/portifolio'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
     "origianlUrl": "git+https://github.com/microsoft/codespaces-teaching-template-js.git",
-    "url": "git+https://github.com/IvanNascimento/myportifolio.git"
+    "url": "git+https://github.com/IvanNascimento/portifolio.git"
   },
   "author": "Ivan Nascimento",
   "originalAuthor": "Microsoft",
   "license": "ISC",
   "bugs": {
     "originalUrl": "https://github.com/microsoft/codespaces-teaching-template-js/issues",
-    "url": "https://github.com/IvanNascimento/myportifolio/issues"
+    "url": "https://github.com/IvanNascimento/portifolio/issues"
   },
   "dependencies": {
     "react": "^18.2.0",
